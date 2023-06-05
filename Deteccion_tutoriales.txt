@@ -1,0 +1,10 @@
+LIBRERÍA TENSORFLOW:
+1) crear base de datos con múltiples fotos en situaciones diferentes(pueden ser sacadas con el celular). Realizar un dimensionado para convertir esas imágenes en otras con una resolución menor (entrenamiento puede llevar mucho tiempo). (Crear carpetas en Raspberry Pi según la posición del pájaro). Página 51 documento rpalaciossa...
+**Usar modelo MobileNet
+JETSON NANO: utilizar reed neuronal que ya está entrenada y agregarle las nuevas imágenes que queremos. EN TIEMPO REAL
+https://github.com/AprendeIngenia/Deteccion-Objetos-Template-Matching/blob/main/Deteccion.py 
+https://www.youtube.com/watch?v=iC-j9YC38oM
+**idea: imprimir imagen que deba reconocer, en vez de tenerlo físicamente
+
+INSTALAR OPENCV CON PIP
+https://programarfacil.com/blog/vision-artificial/opencv-raspberry-pi/
